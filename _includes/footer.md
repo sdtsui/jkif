@@ -1,8 +1,5 @@
-
-
-&copy; Clark Feusier 2015 [t413.com](http://t413.com/)
+&copy; [Clark Feusier](http://clarkfeusier.com/) 2015
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[jKif Source]({{ site.source_link }})
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+[Design Credit](https://github.com/t413/SinglePaged)

@@ -1,3 +1,4 @@
+# jKif
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+[jKif Website](http://clarkfeusier.com/jkif)
+[jKif Source](https://github.com/Cfeusier/jkif)
